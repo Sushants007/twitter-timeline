@@ -1,0 +1,42 @@
+.tweet{
+    background-color: white;
+    padding: 15px;
+    border: solid rgba(221, 221, 221, 0.2);
+    border-top: transparent;
+    
+}
+.tweet__header{
+    display: flex;
+    margin-bottom: 10px;
+
+}
+.tweet__info{
+    margin-left: 10px
+}
+.tweet__info>p{
+    font-size: 10px;
+    color: gray;
+}
+.tweet__image{
+    display: flex;
+    justify-content: space-around;
+}
+.tweet__body>p>img{
+    width: 100%;
+    height: auto;
+    max-width: 10vw;
+}
+.tweet__info>h2{
+    font-size: 15px;
+}
+.tweet__body{
+    overflow-wrap: anywhere;
+}
+.tweet__buttons>a{
+    text-decoration: none;
+}
+.tweet__buttons{
+    display: flex;
+    justify-content: flex-start;
+
+}
