@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/Sushants007/twitter-timeline/static/css/main.694cc917.css",
-    "main.js": "/Sushants007/twitter-timeline/static/js/main.1441c860.js",
+    "main.js": "/Sushants007/twitter-timeline/static/js/main.8c875d3d.js",
     "static/js/787.bf06af21.chunk.js": "/Sushants007/twitter-timeline/static/js/787.bf06af21.chunk.js",
     "index.html": "/Sushants007/twitter-timeline/index.html",
     "main.694cc917.css.map": "/Sushants007/twitter-timeline/static/css/main.694cc917.css.map",
-    "main.1441c860.js.map": "/Sushants007/twitter-timeline/static/js/main.1441c860.js.map",
+    "main.8c875d3d.js.map": "/Sushants007/twitter-timeline/static/js/main.8c875d3d.js.map",
     "787.bf06af21.chunk.js.map": "/Sushants007/twitter-timeline/static/js/787.bf06af21.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.694cc917.css",
-    "static/js/main.1441c860.js"
+    "static/js/main.8c875d3d.js"
   ]
 }
