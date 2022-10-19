@@ -64,7 +64,10 @@
     padding: 10px;
     font-weight: 200;
     font-size: large;
-    
+   
+ }
+ input.header__search__picker{
+    width: inherit;
  }
  @media screen and (max-width: 900px) {
     .header__search{
