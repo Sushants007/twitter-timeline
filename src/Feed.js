@@ -17,7 +17,7 @@ function Feed() {
   useEffect(() => {
     (async () => {
       const res = await axios.get(
-        `${"http://www.mocky.io/v2/5d1ef97d310000552febe99d"}`
+        `${"https://www.mocky.io/v2/5d1ef97d310000552febe99d"}`
       );
       console.log(res)
       setTweets(res.data.map((doc)=>
